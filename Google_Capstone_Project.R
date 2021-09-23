@@ -93,6 +93,10 @@ cyclistic_date <- na.omit(cyclistic_date) #remove duplicate rows
 cyclistic_date <- na.omit(cyclistic_date) #remove rows with NA values
 cyclistic_date <- cyclistic_date[!(cyclistic_date$ride_length <=0),] #remove where ride_length is 0 or negative
 
+#remove columns note needed: ride_id, start_station_id, end_station_id, start_lat, start_long, end_lat, end_lng
+cyclistic_date <- cyclistic_date %>%  
+  select(-c(ride_id, start_station_id, end_station_id,start_lat,start_lng,end_lat,end_lng))
+
 #view the final data
 View(cyclistic_date)
 
