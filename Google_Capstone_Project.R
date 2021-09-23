@@ -92,14 +92,11 @@ cyclistic_date <-cyclistic_date %>% mutate(time_of_day =
 cyclistic_date <- na.omit(cyclistic_date) #remove duplicate rows 
 cyclistic_date <- na.omit(cyclistic_date) #remove rows with NA values
 cyclistic_date <- cyclistic_date[!(cyclistic_date$ride_length <=0),] #remove where ride_length is 0 or negative
-cyclistic_date <- cyclistic_date %>%   #remove columns not needed: ride_id, start_station_id, end_station_id, start_lat, start_long, end_lat, end_lng
-  select(-c(ride_id, start_station_id, end_station_id,start_lat,start_lng,end_lat,end_lng))
+cyclistic_date <- cyclistic_date %>%  #remove columns not needed: ride_id, start_station_id, end_station_id, start_lat, start_long, end_lat, end_lng
+  select(-c(ride_id, start_station_id, end_station_id,start_lat,start_lng,end_lat,end_lng)) 
 
 #view the final data
 View(cyclistic_date)
-
-#download the new data as a .csv file
-fwrite(cyclistic_date,"cyclistic_data.csv")
 
 #-----------------------------------------TOTAL RIDES--------------------------------------
 
