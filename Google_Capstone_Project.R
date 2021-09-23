@@ -39,7 +39,7 @@ cyclistic_date$day_of_week <- format(as.Date(cyclistic_date$date), "%A") #create
 cyclistic_date$month <- format(as.Date(cyclistic_date$date), "%m")#create column for month
 cyclistic_date$day <- format(as.Date(cyclistic_date$date), "%d") #create column for day
 cyclistic_date$year <- format(as.Date(cyclistic_date$date), "%Y") #create column for year
-cyclistic_date$time <- format(as.Date(cyclistic_date$date), "%H:%M:%S") #create column for start time 
+cyclistic_date$time <- format(as.Date(cyclistic_date$date), "%H:%M:%S") #format time as HH:MM:SS
 cyclistic_date$time <- as_hms((cyclistic_df$started_at)) #create new column for time
 cyclistic_date$hour <- hour(cyclistic_date$time) #create new column for hour
 
