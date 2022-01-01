@@ -1,8 +1,6 @@
 # Portfolio Projects
 You can view my explanations of my portfolio projects on my [portfolio page](https://www.kellyjadams.com/portfolio) on my website. 
 
-Currently Working on: [Maven Analytics Magic Challenge](https://www.mavenanalytics.io/blog/maven-magic-challenge) analyzing the data set provided in their [Data Playground](https://www.mavenanalytics.io/data-playground) to analyze the Harry Potter movies
-
 ## Google Capstone Project
 - **Google_Capstone_Project.R** - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
 - **Google_Capstone_Project_T.R** - used code to create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau. 
