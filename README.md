@@ -1,6 +1,12 @@
 # Portfolio Projects
 You can view my explanations of my portfolio projects on my [portfolio page](https://www.kellyjadams.com/portfolio) on my website. 
 
+## Python Projects
+A set of projects I did for the [2022 Complete Python Bootcamp Course](https://www.udemy.com/course/complete-python-bootcamp/). 
+
+### Milestone Project 1
+My first project was to create a functioning tic tac toe game. It takes in two player's inputs by letting them choose either "x" or "O" for their markers. Players take turns choosing a position on the board for their markers. It also has the option (depending on if the game is a win or a tie) to replay the game. 
+
 ## Google Capstone Project
 - **Google_Capstone_Project.R** - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
 - **Google_Capstone_Project_T.R** - used code to create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau. 
