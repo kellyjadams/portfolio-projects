@@ -19,7 +19,8 @@ With these parameters the program randomly picks a resturant.
 You can read more about the project in detail [here](https://www.kellyjadams.com/post/restaurant-picker-project).
 
 ## Google Capstone Project
-- [**Google_Capstone_Project.R**](https://github.com/kellyjadams/portfolioProjects/blob/main/Google_Capstone_Project.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
+**This has been moved to my [Google Capstone Project Repository](https://github.com/kellyjadams/GoogleCapstoneProject). The code in both the new repository and this one are the same. I have kept the original files here for version control.**
+- [**Google_Capstone_Project.R**](https://github.com/kellyjadams/portfolioProjects/blob/main/Google_Capstone_Project.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R.
 - [**Google_Capstone_Project_T.R**](https://github.com/kellyjadams/portfolioProjects/blob/main/Google_Capstone_Project_T.R) - used code to create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau. 
 - [**Article**](https://www.kellyjadams.com/post/google-capstone-project) - wrote an article summarizing my findings.
 - [**Tableau Dashboard**](https://public.tableau.com/views/GoogleCapstoneProjectCyclistic/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - created a dashboard in Tableau summarizing the data.
