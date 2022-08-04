@@ -21,7 +21,7 @@ You can read more about the project in detail [here](https://www.kellyjadams.com
 ## Google Capstone Project
 **This has been moved to my [Google Capstone Project Repository](https://github.com/kellyjadams/GoogleCapstoneProject). The code in both the new repository and the ones that were here are the same.**
 - **Google_Capstone_Project.R** is now **[FinalAnalysis.R](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysis.R)** - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R.
-- **Google_Capstone_Project_T.R** is now [FinalAnalysisTableau.R](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysisTableau.R) - used code to create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau. 
+- **Google_Capstone_Project_T.R** is now **[FinalAnalysisTableau.R](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysisTableau.R)** - used code to create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau. 
 - [**Article**](https://www.kellyjadams.com/post/google-capstone-project) - wrote an article summarizing my findings.
 - [**Tableau Dashboard**](https://public.tableau.com/views/GoogleCapstoneProjectCyclistic/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - created a dashboard in Tableau summarizing the data.
 
