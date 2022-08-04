@@ -1,22 +1,8 @@
 # Portfolio Projects
-You can view my explanations of my portfolio projects on my [portfolio page](https://www.kellyjadams.com/portfolio) on my website. 
+These projects are smaller projects that only required one file. For larger projects that had different versions or included several files they have their own repository. You can view my explanations of my portfolio projects on my [portfolio page](https://www.kellyjadams.com/portfolio) on my website. 
 
-## Python Projects
-A set of projects I did for the [2022 Complete Python Bootcamp Course](https://www.udemy.com/course/complete-python-bootcamp/). 
-
-### Tic Tac Toe (Milestone Project 1)
-My first project, [**Tic Tac Toe Game**](https://github.com/kellyjadams/portfolioProjects/blob/main/tictactoe.py) was to create a functioning tic tac toe game. It takes in two player's inputs by letting them choose either "x" or "O" for their markers. Players take turns choosing a position on the board for their markers. It also has the option (depending on if the game is a win or a tie) to replay the game. You can view my article on it [here](https://www.kellyjadams.com/post/python-project-tic-tac-toe). 
-
-### Capstone Project (Restaurant Picker) 
-My capstone project, [**Restaurant Picker**](https://github.com/kellyjadams/portfolioProjects/blob/main/restaurantpicker.py) was to create a program to solve a problem. This is a simple program I made for a frequent problem my friends and I encounter.It takes my friends and I a while to choose any restaurant. To test my Python programming skills, I created a program that randomly chooses a restuarant based on a few criteria.
-
-The user will be able to choose two things:
-1. How much you want to spend: cheap, not bad, or expensive (this is all relevant to me and my own budget);
-2. The type of cuisine (i.e. American, Mexican, Japanese, etc.) you want based on the list that's avaiable.
-
-With these parameters the program randomly picks a resturant.
-
-You can read more about the project in detail [here](https://www.kellyjadams.com/post/restaurant-picker-project).
+## Tic Tac Toe (Milestone Project 1)
+My first project for the [2022 Complete Python Bootcamp Course](https://www.udemy.com/course/complete-python-bootcamp/) course, [**Tic Tac Toe Game**](https://github.com/kellyjadams/portfolioProjects/blob/main/tictactoe.py) was to create a functioning tic tac toe game. It takes in two player's inputs by letting them choose either "x" or "O" for their markers. Players take turns choosing a position on the board for their markers. It also has the option (depending on if the game is a win or a tie) to replay the game. You can view my article on it [here](https://www.kellyjadams.com/post/python-project-tic-tac-toe). 
 
 ## Google Capstone Project
 **This has been moved to my [Google Capstone Project Repository](https://github.com/kellyjadams/GoogleCapstoneProject). The code in both the new repository and the ones that were here are the same.**
