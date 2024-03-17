@@ -1,7 +1,5 @@
 # Portfolio Projects
-These are older projects I have worked on in the past. 
-
-These are smaller projects that only required one file. For larger projects that had different versions or included several files they have their own repository.
+These are older projects I have worked on in the past. They are smaller projects that only required one file. For larger projects that had different versions or included several files they have their own repository.
 
 ## Tic Tac Toe (Milestone Project 1)
 
